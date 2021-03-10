@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calcapp</string>
+    <string name="titulo">Area de la Figura</string>
+    <string name="baset">Digite la Base</string>
+    <string name="altt">Digite la Altura</string>
+    <string name="result">Resultado</string>
+    <string name="botont">Calcular</string>
+    <string name="rect">Rectangulo</string>
+    <string name="triagt">Triangulo</string>
+    <string name="botonl">Limpiar</string>
+</resources>
